@@ -1,0 +1,1 @@
+web: gunicorn wsgi: Pune_house_price_pred_flask
